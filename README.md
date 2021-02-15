@@ -1,5 +1,5 @@
 # u-tm-logger
-A basic logger used  in an IT Dept.
+A basic typically logger used  in an IT Dept.
 
 ## Technologies
 - React https://reactjs.org/
