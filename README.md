@@ -31,5 +31,10 @@ A basic typical logger used  in an IT Dept.
   - goto tool to testing REST API'S
   - developed in Electron https://www.electronjs.org/
 - Access API's via fetch, instead of Axios, for something diff
+- moment & react-moment
+  - working with dates
 
-
+## Features
+- Searchable Table 
+  - Master/Detail
+  - Detail in Modal
