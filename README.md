@@ -7,6 +7,9 @@ A basic typical logger used  in an IT Dept.
   - npx create-react-app . (install in current dir)
 - Redux https://redux.js.org/
   - state management
+  - vs ContextAPI.. 
+    - prob better for really large apps, given the way it organised, can combine reducers, etc
+    - https://academind.com/tutorials/reactjs-redux-vs-context-api/
 - Json-server https://github.com/typicode/json-server
   - a great way to mock up a REST based API quickly
   - CRUD, filter, search,etc
@@ -27,5 +30,6 @@ A basic typical logger used  in an IT Dept.
 - Postman https://www.postman.com/
   - goto tool to testing REST API'S
   - developed in Electron https://www.electronjs.org/
+- Access API's via fetch, instead of Axios, for something diff
 
 
