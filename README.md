@@ -6,10 +6,11 @@ A basic typical logger used  in an IT Dept.
   - create-react-app https://create-react-app.dev/
   - npx create-react-app . (install in current dir)
 - Redux https://redux.js.org/
-  - state management
+  - app level state management
   - vs ContextAPI.. 
     - prob better for really large apps, given the way it organised, can combine reducers, etc
     - https://academind.com/tutorials/reactjs-redux-vs-context-api/
+  - npm i redux react-redux redux-thunk redux-devtools-extension
 - Json-server https://github.com/typicode/json-server
   - a great way to mock up a REST based API quickly
   - CRUD, filter, search,etc
@@ -17,11 +18,11 @@ A basic typical logger used  in an IT Dept.
 - Materialize CSS https://materializecss.com/
   - similar to Bootstrap, perhaps nicer looking imo
   - could use Material-UI, which is Materialize converted into React
-  - npm i materialize-css
   components, however:
     - it uses too much code, too many imports, state etc
-    - not very either  
-    - NOT a fan of css in react components in General, rather be closer to the metal.
+    - NOT a fan of css in react components in General, 
+      rather be closer to the metal.
+    - npm i materialize-css
 
 ## Tools 
 - concurrently https://www.npmjs.com/package/concurrently
