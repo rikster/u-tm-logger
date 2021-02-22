@@ -39,3 +39,6 @@ A basic typical logger used  in an IT Dept.
 - Searchable Table 
   - Master/Detail
   - Detail in Modal
+- Full CRUD
+  - Logs
+  - Techs
