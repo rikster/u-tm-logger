@@ -44,6 +44,13 @@ export default (state = initialState, action) => {
           log.id === action.payload.id ? action.payload : log
         )
       };
+    // see contact keeper for filtering state, rather than using an 
+    // Endpoint w/ built-in filtering like this  
+    case SEARCH_LOGS:
+      return {
+        ...state,
+        logs: action.payload
+      };
     case SET_CURRENT:
       return {
         ...state,
