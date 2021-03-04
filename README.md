@@ -1,5 +1,7 @@
 # u-tm-logger
 
+A simple IT issue logger.
+
 ## Technologies
 - React https://reactjs.org/
   - create-react-app https://create-react-app.dev/
